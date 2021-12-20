@@ -15,9 +15,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="205DTiEvvtsecFFKj7m5ehLDTCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,7 +67,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635325565162</updated>
-      <workItem from="1635325567968" duration="1544000" />
+      <workItem from="1635325567968" duration="4281000" />
+      <workItem from="1635506662737" duration="2384000" />
+      <workItem from="1635514962960" duration="5234000" />
+      <workItem from="1635767329736" duration="3742000" />
     </task>
     <servers />
   </component>
@@ -74,28 +78,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1635327112124">
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom" timestamp="1635769770808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635327112124" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1635327112124">
+    <state width="1493" height="587" key="GridCell.Tab.0.bottom/0.0.1536.824/-645.-1440.3440.1400@0.0.1536.824" timestamp="1635526676546" />
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635769770808" />
+    <state width="724" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635516502407" />
+    <state width="1493" height="186" key="GridCell.Tab.0.center" timestamp="1635769770808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635327112124" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1635327112123">
+    <state width="1493" height="587" key="GridCell.Tab.0.center/0.0.1536.824/-645.-1440.3440.1400@0.0.1536.824" timestamp="1635526676546" />
+    <state width="1493" height="186" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635769770808" />
+    <state width="724" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635516502407" />
+    <state width="1493" height="186" key="GridCell.Tab.0.left" timestamp="1635769770808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635327112123" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1635327112124">
+    <state width="1493" height="587" key="GridCell.Tab.0.left/0.0.1536.824/-645.-1440.3440.1400@0.0.1536.824" timestamp="1635526676546" />
+    <state width="1493" height="186" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635769770808" />
+    <state width="724" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635516502407" />
+    <state width="1493" height="186" key="GridCell.Tab.0.right" timestamp="1635769770808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635327112124" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1635325570022">
+    <state width="1493" height="587" key="GridCell.Tab.0.right/0.0.1536.824/-645.-1440.3440.1400@0.0.1536.824" timestamp="1635526676546" />
+    <state width="1493" height="186" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635769770808" />
+    <state width="724" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635516502407" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1635767331173">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635325570022" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635767331173" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1635514965009" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/crypto$utils.coverage" NAME="utils Coverage Results" MODIFIED="1635327112102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crypto$utils.coverage" NAME="utils Coverage Results" MODIFIED="1635769770776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
